@@ -1,5 +1,5 @@
 ﻿# TV Shows Visualizations
-This is a tiny project with web scraping and data visualization.
+This is a tiny project with web scraping and data visualization. The project base is in [visualizations.ipynb](https://github.com/guilhermecxe/tvshow/blob/master/visualizations.ipynb)
 
 Basically, my goal is to be able to compare episodes or seasons from different TV shows with just one function.
 
